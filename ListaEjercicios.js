@@ -2,7 +2,7 @@ const ListaPrueba=[
     "Darien Rafael Pajaro Miranda",
     24,
     true,
-    2022-10-08      
+    new Date(1998,9,08)    
 ]
 
 const ObjetoLibroFavorito={
